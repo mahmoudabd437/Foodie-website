@@ -619,10 +619,10 @@ button:focus {
     transform: translateX(-50%);
     max-width: 100% !important;
     width: 200px;
-    animation: move 3s infinite;
+    animation: zigzag 3s infinite;
 }
 
-@keyframes move {
+@keyframes zigzag {
     0% {
         scale: 1;
     }
