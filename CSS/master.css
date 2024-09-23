@@ -236,22 +236,6 @@ header nav .links ul.active {
     }
 }
 
-/* .switch-on span:not(:last-of-type) {
-    display: none !important;
-}
-
-.switch-off span:last-of-type {
-    display: none !important;
-}
-
-.switch-on span:last-of-type {
-    display: block !important;
-}
-
-
-.switch-off span:not(:last-of-type) {
-    display: block !important;
-} */
 
 header nav .links ul.active li:hover a {
     color: var(--deep-saffron) !important;
