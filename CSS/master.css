@@ -1332,6 +1332,7 @@ textarea:focus {
     left: 0;
     top: 48px;
     height: 90vh;
+    z-index: 1500;
 
     li {
       width: calc(100% - 70px);
