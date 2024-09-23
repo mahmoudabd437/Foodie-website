@@ -1331,7 +1331,7 @@ textarea:focus {
     box-shadow: 0 0 10px hsla(0, 0%, 0%, 0.1);
     left: 0;
     top: 48px;
-    height: 84vh;
+    height: 90vh;
 
     li {
       width: calc(100% - 70px);
